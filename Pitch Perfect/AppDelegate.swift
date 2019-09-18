@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Pitch Perfect
 //
-//  Created by Ghadah on 18/09/2019.
-//  Copyright © 2019 Ghadah. All rights reserved.
+//  Created by Ghadah Altaiari on 13/09/2019.
+//  Copyright © 2019 Udacity. All rights reserved.
 //
 
 import UIKit
